@@ -1,4 +1,4 @@
-package semigrupa1.matrix;
+package matrix;
 
 public class IntegerMatrix extends GenericMatrix<Integer> {
     @Override

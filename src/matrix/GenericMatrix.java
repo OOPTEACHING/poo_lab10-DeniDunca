@@ -1,4 +1,4 @@
-package semigrupa2.matrix;
+package matrix;
 
 public abstract class GenericMatrix<E extends Number> {
 

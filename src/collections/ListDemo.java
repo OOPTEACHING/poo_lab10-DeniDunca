@@ -1,5 +1,4 @@
-package semigrupa1.collections;
-
+package collections;
 import java.util.*;
 
 public class ListDemo {

@@ -1,4 +1,4 @@
-package semigrupa1.matrix;
+package matrix;
 
 public class TestIntegerMatrix {
     public static void main(String[] args) {

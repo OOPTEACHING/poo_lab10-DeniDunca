@@ -1,4 +1,4 @@
-package semigrupa1.generics;
+package generics;
 
 public class GenericsType<T> {
 

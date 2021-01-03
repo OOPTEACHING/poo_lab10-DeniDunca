@@ -1,4 +1,4 @@
-package semigrupa2.generics;
+package generics;
 
 public class GenericsMethods {
 

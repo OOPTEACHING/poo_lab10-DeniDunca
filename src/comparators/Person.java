@@ -1,4 +1,4 @@
-package semigrupa1.comparators;
+package comparators;
 
 public class Person implements Comparable<Person>{
 
